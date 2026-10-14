@@ -1,0 +1,401 @@
+fecha,producto,cantidad,precio
+2025-01-01,Buzo con capota,1,75000
+2025-01-01,Medias (par),1,9000
+2025-01-02,Gorra,2,25000
+2025-01-03,Zapatos deportivos,3,150000
+2025-01-05,Camiseta básica,4,35000
+2025-01-06,Medias (par),1,9000
+2025-01-08,Bolso,4,65000
+2025-01-08,Chaqueta,1,120000
+2025-01-08,Jean clásico,1,89000
+2025-01-08,Medias (par),1,9000
+2025-01-10,Falda,1,55000
+2025-01-12,Bolso,2,65000
+2025-01-13,Medias (par),4,9000
+2025-01-15,Bolso,2,65000
+2025-01-15,Camiseta básica,5,35000
+2025-01-16,Camiseta básica,1,35000
+2025-01-17,Correa de cuero,1,40000
+2025-01-19,Camiseta básica,5,35000
+2025-01-20,Camiseta básica,1,35000
+2025-01-21,Zapatos deportivos,1,150000
+2025-01-23,Buzo con capota,1,75000
+2025-01-23,Camiseta básica,3,35000
+2025-01-26,Zapatos deportivos,2,150000
+2025-01-28,Camiseta básica,3,35000
+2025-01-29,Jean clásico,1,89000
+2025-01-30,Bolso,1,65000
+2025-02-01,Gorra,1,25000
+2025-02-01,Gorra,1,25000
+2025-02-01,Jean clásico,1,89000
+2025-02-02,Buzo con capota,2,75000
+2025-02-02,Medias (par),1,9000
+2025-02-05,Buzo con capota,3,75000
+2025-02-05,Jean clásico,2,89000
+2025-02-06,Medias (par),4,9000
+2025-02-07,Camiseta básica,2,35000
+2025-02-08,Camiseta básica,5,35000
+2025-02-08,Medias (par),3,9000
+2025-02-09,Chaqueta,1,120000
+2025-02-10,Correa de cuero,3,40000
+2025-02-11,Buzo con capota,1,75000
+2025-02-14,Buzo con capota,1,75000
+2025-02-16,Medias (par),2,9000
+2025-02-17,Medias (par),3,9000
+2025-02-19,Medias (par),1,9000
+2025-02-19,Zapatos deportivos,2,150000
+2025-02-20,Bolso,1,65000
+2025-02-20,Camiseta básica,5,35000
+2025-02-22,Camiseta básica,1,35000
+2025-02-24,Falda,1,55000
+2025-02-24,Jean clásico,2,89000
+2025-02-25,Gorra,1,25000
+2025-02-25,Jean clásico,1,89000
+2025-02-26,Camiseta básica,1,35000
+2025-02-27,Zapatos deportivos,4,150000
+2025-02-28,Falda,1,55000
+2025-02-28,Gorra,1,25000
+2025-02-28,Medias (par),1,9000
+2025-03-01,Bolso,1,65000
+2025-03-01,Gorra,2,25000
+2025-03-04,Bolso,3,65000
+2025-03-06,Buzo con capota,2,75000
+2025-03-07,Camiseta básica,1,35000
+2025-03-07,Jean clásico,2,89000
+2025-03-09,Camiseta básica,3,35000
+2025-03-10,Correa de cuero,2,40000
+2025-03-10,Jean clásico,4,89000
+2025-03-12,Camiseta básica,1,35000
+2025-03-13,Camiseta básica,1,35000
+2025-03-14,Camiseta básica,1,35000
+2025-03-16,Bolso,2,65000
+2025-03-20,Chaqueta,1,120000
+2025-03-20,Gorra,2,25000
+2025-03-20,Jean clásico,1,89000
+2025-03-20,Medias (par),2,9000
+2025-03-21,Jean clásico,3,89000
+2025-03-21,Zapatos deportivos,2,150000
+2025-03-22,Camiseta básica,4,35000
+2025-03-23,Chaqueta,1,120000
+2025-03-26,Correa de cuero,4,40000
+2025-03-26,Gorra,5,25000
+2025-03-26,Jean clásico,3,89000
+2025-03-28,Medias (par),1,9000
+2025-03-29,Jean clásico,2,89000
+2025-03-31,Camiseta básica,3,35000
+2025-03-31,Gorra,2,25000
+2025-04-01,Zapatos deportivos,1,150000
+2025-04-02,Medias (par),5,9000
+2025-04-04,Camiseta básica,1,35000
+2025-04-04,Gorra,1,25000
+2025-04-05,Bolso,1,65000
+2025-04-06,Camiseta básica,1,35000
+2025-04-07,Bolso,1,65000
+2025-04-08,Buzo con capota,5,75000
+2025-04-09,Buzo con capota,2,75000
+2025-04-10,Buzo con capota,1,75000
+2025-04-10,Chaqueta,1,120000
+2025-04-12,Bolso,3,65000
+2025-04-12,Camiseta básica,1,35000
+2025-04-12,Camiseta básica,3,35000
+2025-04-12,Gorra,2,25000
+2025-04-13,Camiseta básica,2,35000
+2025-04-15,Medias (par),1,9000
+2025-04-18,Chaqueta,1,120000
+2025-04-19,Gorra,1,25000
+2025-04-19,Jean clásico,1,89000
+2025-04-19,Zapatos deportivos,3,150000
+2025-04-20,Correa de cuero,4,40000
+2025-04-20,Medias (par),1,9000
+2025-04-22,Jean clásico,2,89000
+2025-04-24,Gorra,1,25000
+2025-04-24,Jean clásico,4,89000
+2025-04-27,Jean clásico,2,89000
+2025-04-28,Bolso,3,65000
+2025-04-28,Medias (par),1,9000
+2025-04-30,Buzo con capota,1,75000
+2025-05-01,Gorra,4,25000
+2025-05-01,Medias (par),1,9000
+2025-05-02,Buzo con capota,1,75000
+2025-05-02,Camiseta básica,1,35000
+2025-05-02,Correa de cuero,5,40000
+2025-05-02,Medias (par),1,9000
+2025-05-03,Chaqueta,1,120000
+2025-05-03,Jean clásico,1,89000
+2025-05-05,Camiseta básica,3,35000
+2025-05-06,Jean clásico,2,89000
+2025-05-07,Falda,2,55000
+2025-05-07,Jean clásico,1,89000
+2025-05-08,Medias (par),1,9000
+2025-05-08,Zapatos deportivos,1,150000
+2025-05-09,Bolso,3,65000
+2025-05-09,Medias (par),2,9000
+2025-05-09,Zapatos deportivos,3,150000
+2025-05-11,Camiseta básica,1,35000
+2025-05-11,Gorra,2,25000
+2025-05-13,Buzo con capota,4,75000
+2025-05-15,Bolso,3,65000
+2025-05-16,Buzo con capota,2,75000
+2025-05-16,Camiseta básica,2,35000
+2025-05-16,Gorra,2,25000
+2025-05-16,Zapatos deportivos,3,150000
+2025-05-17,Camiseta básica,2,35000
+2025-05-17,Correa de cuero,1,40000
+2025-05-17,Medias (par),4,9000
+2025-05-19,Buzo con capota,1,75000
+2025-05-20,Gorra,1,25000
+2025-05-21,Camiseta básica,1,35000
+2025-05-21,Camiseta básica,3,35000
+2025-05-23,Buzo con capota,2,75000
+2025-05-23,Correa de cuero,1,40000
+2025-05-23,Jean clásico,2,89000
+2025-05-24,Camiseta básica,1,35000
+2025-05-26,Gorra,1,25000
+2025-05-27,Falda,1,55000
+2025-05-27,Gorra,5,25000
+2025-05-28,Bolso,2,65000
+2025-05-28,Gorra,1,25000
+2025-05-30,Chaqueta,1,120000
+2025-06-01,Buzo con capota,1,75000
+2025-06-02,Correa de cuero,2,40000
+2025-06-02,Correa de cuero,2,40000
+2025-06-03,Gorra,4,25000
+2025-06-03,Medias (par),2,9000
+2025-06-04,Camiseta básica,2,35000
+2025-06-05,Camiseta básica,1,35000
+2025-06-05,Chaqueta,4,120000
+2025-06-07,Jean clásico,1,89000
+2025-06-07,Medias (par),3,9000
+2025-06-08,Falda,1,55000
+2025-06-09,Camiseta básica,1,35000
+2025-06-09,Medias (par),4,9000
+2025-06-10,Camiseta básica,2,35000
+2025-06-10,Gorra,5,25000
+2025-06-11,Gorra,1,25000
+2025-06-12,Medias (par),4,9000
+2025-06-15,Medias (par),1,9000
+2025-06-16,Falda,1,55000
+2025-06-17,Gorra,1,25000
+2025-06-17,Zapatos deportivos,1,150000
+2025-06-19,Correa de cuero,4,40000
+2025-06-20,Falda,1,55000
+2025-06-20,Jean clásico,1,89000
+2025-06-21,Buzo con capota,2,75000
+2025-06-22,Camiseta básica,3,35000
+2025-06-22,Medias (par),3,9000
+2025-06-23,Correa de cuero,1,40000
+2025-06-24,Camiseta básica,1,35000
+2025-06-26,Medias (par),3,9000
+2025-06-28,Correa de cuero,4,40000
+2025-06-29,Buzo con capota,3,75000
+2025-06-29,Jean clásico,1,89000
+2025-06-30,Buzo con capota,1,75000
+2025-06-30,Jean clásico,1,89000
+2025-07-05,Camiseta básica,2,35000
+2025-07-05,Jean clásico,5,89000
+2025-07-06,Camiseta básica,1,35000
+2025-07-06,Falda,1,55000
+2025-07-07,Medias (par),4,9000
+2025-07-08,Medias (par),2,9000
+2025-07-09,Buzo con capota,1,75000
+2025-07-09,Medias (par),1,9000
+2025-07-10,Camiseta básica,1,35000
+2025-07-11,Gorra,1,25000
+2025-07-12,Gorra,2,25000
+2025-07-13,Camiseta básica,1,35000
+2025-07-14,Buzo con capota,2,75000
+2025-07-14,Buzo con capota,5,75000
+2025-07-14,Jean clásico,4,89000
+2025-07-14,Medias (par),4,9000
+2025-07-15,Correa de cuero,3,40000
+2025-07-15,Gorra,2,25000
+2025-07-15,Medias (par),1,9000
+2025-07-15,Medias (par),1,9000
+2025-07-16,Jean clásico,3,89000
+2025-07-24,Buzo con capota,3,75000
+2025-07-24,Jean clásico,2,89000
+2025-07-25,Correa de cuero,2,40000
+2025-07-25,Gorra,1,25000
+2025-07-28,Buzo con capota,1,75000
+2025-07-28,Gorra,3,25000
+2025-07-30,Gorra,2,25000
+2025-07-30,Medias (par),1,9000
+2025-07-30,Medias (par),3,9000
+2025-08-01,Buzo con capota,3,75000
+2025-08-03,Medias (par),2,9000
+2025-08-04,Jean clásico,1,89000
+2025-08-08,Medias (par),1,9000
+2025-08-11,Bolso,3,65000
+2025-08-13,Correa de cuero,1,40000
+2025-08-14,Camiseta básica,4,35000
+2025-08-15,Correa de cuero,3,40000
+2025-08-15,Gorra,1,25000
+2025-08-15,Medias (par),1,9000
+2025-08-15,Medias (par),2,9000
+2025-08-16,Gorra,1,25000
+2025-08-17,Zapatos deportivos,2,150000
+2025-08-18,Camiseta básica,1,35000
+2025-08-18,Falda,1,55000
+2025-08-18,Falda,2,55000
+2025-08-19,Zapatos deportivos,1,150000
+2025-08-21,Camiseta básica,1,35000
+2025-08-21,Camiseta básica,2,35000
+2025-08-22,Gorra,2,25000
+2025-08-24,Medias (par),5,9000
+2025-08-25,Jean clásico,4,89000
+2025-08-26,Medias (par),2,9000
+2025-08-27,Zapatos deportivos,2,150000
+2025-08-29,Buzo con capota,1,75000
+2025-08-29,Buzo con capota,1,75000
+2025-08-31,Correa de cuero,1,40000
+2025-08-31,Falda,5,55000
+2025-09-01,Bolso,1,65000
+2025-09-01,Gorra,3,25000
+2025-09-01,Medias (par),3,9000
+2025-09-02,Camiseta básica,1,35000
+2025-09-04,Bolso,1,65000
+2025-09-05,Bolso,1,65000
+2025-09-05,Buzo con capota,2,75000
+2025-09-06,Correa de cuero,5,40000
+2025-09-06,Medias (par),1,9000
+2025-09-07,Correa de cuero,1,40000
+2025-09-08,Camiseta básica,5,35000
+2025-09-08,Medias (par),4,9000
+2025-09-09,Camiseta básica,1,35000
+2025-09-09,Camiseta básica,2,35000
+2025-09-10,Camiseta básica,1,35000
+2025-09-14,Medias (par),1,9000
+2025-09-15,Zapatos deportivos,2,150000
+2025-09-16,Gorra,4,25000
+2025-09-17,Zapatos deportivos,4,150000
+2025-09-18,Chaqueta,1,120000
+2025-09-18,Medias (par),3,9000
+2025-09-21,Correa de cuero,1,40000
+2025-09-22,Bolso,1,65000
+2025-09-22,Gorra,1,25000
+2025-09-23,Gorra,3,25000
+2025-09-24,Zapatos deportivos,2,150000
+2025-09-26,Medias (par),5,9000
+2025-09-27,Camiseta básica,1,35000
+2025-09-28,Correa de cuero,1,40000
+2025-09-29,Buzo con capota,5,75000
+2025-09-30,Falda,1,55000
+2025-10-01,Falda,1,55000
+2025-10-02,Falda,3,55000
+2025-10-03,Camiseta básica,1,35000
+2025-10-03,Falda,1,55000
+2025-10-03,Gorra,1,25000
+2025-10-04,Bolso,4,65000
+2025-10-04,Camiseta básica,4,35000
+2025-10-04,Gorra,2,25000
+2025-10-05,Gorra,1,25000
+2025-10-06,Chaqueta,2,120000
+2025-10-06,Gorra,4,25000
+2025-10-06,Zapatos deportivos,2,150000
+2025-10-07,Gorra,1,25000
+2025-10-08,Chaqueta,1,120000
+2025-10-09,Buzo con capota,2,75000
+2025-10-10,Camiseta básica,1,35000
+2025-10-11,Buzo con capota,2,75000
+2025-10-11,Camiseta básica,1,35000
+2025-10-11,Jean clásico,1,89000
+2025-10-12,Medias (par),1,9000
+2025-10-13,Falda,2,55000
+2025-10-13,Gorra,3,25000
+2025-10-14,Medias (par),5,9000
+2025-10-14,Zapatos deportivos,1,150000
+2025-10-15,Jean clásico,2,89000
+2025-10-16,Bolso,1,65000
+2025-10-17,Falda,1,55000
+2025-10-17,Jean clásico,3,89000
+2025-10-17,Medias (par),4,9000
+2025-10-18,Bolso,1,65000
+2025-10-18,Correa de cuero,1,40000
+2025-10-19,Jean clásico,2,89000
+2025-10-20,Medias (par),1,9000
+2025-10-22,Buzo con capota,2,75000
+2025-10-22,Gorra,1,25000
+2025-10-22,Medias (par),1,9000
+2025-10-23,Jean clásico,1,89000
+2025-10-24,Falda,1,55000
+2025-10-24,Medias (par),1,9000
+2025-10-26,Camiseta básica,1,35000
+2025-10-27,Bolso,1,65000
+2025-10-27,Gorra,2,25000
+2025-10-27,Gorra,2,25000
+2025-10-28,Buzo con capota,5,75000
+2025-10-29,Bolso,1,65000
+2025-10-30,Gorra,1,25000
+2025-10-31,Jean clásico,3,89000
+2025-10-31,Medias (par),1,9000
+2025-11-02,Bolso,1,65000
+2025-11-02,Camiseta básica,3,35000
+2025-11-03,Camiseta básica,1,35000
+2025-11-03,Medias (par),4,9000
+2025-11-05,Zapatos deportivos,1,150000
+2025-11-07,Medias (par),2,9000
+2025-11-11,Camiseta básica,3,35000
+2025-11-12,Medias (par),1,9000
+2025-11-13,Jean clásico,2,89000
+2025-11-14,Camiseta básica,2,35000
+2025-11-14,Camiseta básica,5,35000
+2025-11-14,Falda,4,55000
+2025-11-15,Medias (par),4,9000
+2025-11-17,Gorra,1,25000
+2025-11-17,Medias (par),3,9000
+2025-11-18,Medias (par),3,9000
+2025-11-21,Correa de cuero,2,40000
+2025-11-22,Correa de cuero,5,40000
+2025-11-22,Zapatos deportivos,1,150000
+2025-11-23,Bolso,1,65000
+2025-11-23,Buzo con capota,3,75000
+2025-11-24,Camiseta básica,2,35000
+2025-11-26,Gorra,1,25000
+2025-11-26,Gorra,3,25000
+2025-11-28,Buzo con capota,3,75000
+2025-11-28,Camiseta básica,1,35000
+2025-11-28,Camiseta básica,2,35000
+2025-11-29,Camiseta básica,1,35000
+2025-11-30,Bolso,1,65000
+2025-11-30,Camiseta básica,1,35000
+2025-11-30,Jean clásico,3,89000
+2025-12-01,Medias (par),2,9000
+2025-12-02,Bolso,1,65000
+2025-12-02,Medias (par),4,9000
+2025-12-04,Gorra,1,25000
+2025-12-04,Medias (par),1,9000
+2025-12-04,Medias (par),1,9000
+2025-12-05,Jean clásico,1,89000
+2025-12-06,Correa de cuero,2,40000
+2025-12-06,Medias (par),1,9000
+2025-12-06,Medias (par),1,9000
+2025-12-07,Zapatos deportivos,2,150000
+2025-12-09,Correa de cuero,3,40000
+2025-12-10,Bolso,2,65000
+2025-12-10,Camiseta básica,1,35000
+2025-12-10,Jean clásico,1,89000
+2025-12-10,Jean clásico,4,89000
+2025-12-10,Medias (par),1,9000
+2025-12-11,Correa de cuero,2,40000
+2025-12-11,Medias (par),2,9000
+2025-12-12,Correa de cuero,1,40000
+2025-12-13,Chaqueta,5,120000
+2025-12-13,Falda,2,55000
+2025-12-14,Bolso,2,65000
+2025-12-15,Gorra,1,25000
+2025-12-17,Medias (par),1,9000
+2025-12-19,Medias (par),2,9000
+2025-12-20,Gorra,2,25000
+2025-12-20,Jean clásico,1,89000
+2025-12-20,Jean clásico,1,89000
+2025-12-20,Jean clásico,3,89000
+2025-12-20,Zapatos deportivos,2,150000
+2025-12-22,Buzo con capota,1,75000
+2025-12-23,Medias (par),1,9000
+2025-12-25,Buzo con capota,1,75000
+2025-12-25,Jean clásico,1,89000
+2025-12-26,Correa de cuero,2,40000
+2025-12-27,Correa de cuero,1,40000
+2025-12-28,Buzo con capota,3,75000
+2025-12-29,Medias (par),1,9000
+2025-12-31,Zapatos deportivos,1,150000
