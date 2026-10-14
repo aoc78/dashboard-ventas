@@ -1,6 +1,9 @@
 """FastAPI application exposing the sales CSV analyzer."""
 
+import os
+
 from fastapi import FastAPI, File, UploadFile
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 
 from .sales import SalesFileError, analyze_csv
@@ -8,6 +11,17 @@ from .sales import SalesFileError, analyze_csv
 
 MAX_FILE_SIZE = 5 * 1024 * 1024
 app = FastAPI(title="Dashboard de ventas API")
+frontend_origin = os.getenv("FRONTEND_ORIGIN", "").strip().rstrip("/")
+allowed_origins = ["http://localhost:5173"]
+if frontend_origin and frontend_origin != "*":
+    allowed_origins.append(frontend_origin)
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=allowed_origins,
+    allow_methods=["POST"],
+    allow_headers=["Content-Type"],
+)
 
 
 @app.post("/api/sales/analyze")
